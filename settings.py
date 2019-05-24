@@ -1,0 +1,1 @@
+parameters={'host':'127.0.0.1','user':'root','password':'jzsgs...','port':3306,'charset':'utf8','database':'bbs'}
